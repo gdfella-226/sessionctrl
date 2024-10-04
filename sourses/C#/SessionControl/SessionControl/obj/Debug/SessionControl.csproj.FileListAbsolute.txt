@@ -1,0 +1,17 @@
+C:\Users\ZOV\source\repos\SessionControl\SessionControl\obj\Debug\SessionControl.csproj.AssemblyReference.cache
+C:\Users\ZOV\source\repos\SessionControl\SessionControl\obj\Debug\SessionControl.csproj.CoreCompileInputs.cache
+C:\Users\ZOV\source\repos\SessionControl\SessionControl\bin\Debug\SessionControl.exe.config
+C:\Users\ZOV\source\repos\SessionControl\SessionControl\bin\Debug\SessionControl.exe
+C:\Users\ZOV\source\repos\SessionControl\SessionControl\bin\Debug\SessionControl.pdb
+C:\Users\ZOV\source\repos\SessionControl\SessionControl\bin\Debug\EntityFramework.dll
+C:\Users\ZOV\source\repos\SessionControl\SessionControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZOV\source\repos\SessionControl\SessionControl\bin\Debug\System.Data.SQLite.dll
+C:\Users\ZOV\source\repos\SessionControl\SessionControl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ZOV\source\repos\SessionControl\SessionControl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ZOV\source\repos\SessionControl\SessionControl\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ZOV\source\repos\SessionControl\SessionControl\bin\Debug\EntityFramework.xml
+C:\Users\ZOV\source\repos\SessionControl\SessionControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZOV\source\repos\SessionControl\SessionControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\ZOV\source\repos\SessionControl\SessionControl\obj\Debug\SessionC.4C3A7642.Up2Date
+C:\Users\ZOV\source\repos\SessionControl\SessionControl\obj\Debug\SessionControl.exe
+C:\Users\ZOV\source\repos\SessionControl\SessionControl\obj\Debug\SessionControl.pdb
