@@ -1,0 +1,2 @@
+export DISPALY=:0.0
+python3 /etc/SessionControl/controller.py

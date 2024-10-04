@@ -1,0 +1,31 @@
+#!/bin/sh
+
+
+# [Блок подготовки рабочей директории службы]
+
+# Создание директории
+sudo mkdir /etc/SessionControl
+
+# Установка прав доступа чтение+запись+исполнение
+sudo chmod -R 777 /etc/SessionControl
+
+# Копирование файла controller.py
+sudo cp ./tools/controller.py /etc/SessionControl/controller.py
+
+# Копирование файла py_adapter
+sudo cp ./tools/py_adapter /etc/SessionControl/py_adapter
+
+# Копирование файла session.conf
+sudo cp ./tools/session.conf /etc/SessionControl/session.conf
+
+# Создание файла session.log
+sudo touch /etc/SessionControl/session.log
+
+
+# [Блок подготовки директории службы]
+
+# Копирование файла sessioncontrol.service
+sudo cp ./tools/sessioncontrol.service /etc/systemd/system/sessioncontrol.service
+
+# Перезагрузка systemd + перезапуск созданного сервиса + добавление его в автозапуск
+sudo systemctl daemon-reload && sudo systemctl restart sessioncontrol && sudo systemctl enable sessioncontrol 
